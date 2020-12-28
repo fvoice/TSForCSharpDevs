@@ -1,6 +1,6 @@
 export class HelloWorld{
     SayHi() {
-       console.log("hello world");
+       console.log("hello world1");
     }
 }
 
